@@ -1,1 +1,5 @@
 src/pages/index.astro
+src/pages/sobre.astro
+src/pages/cristo.astro
+src/pages/ia.astro
+src/pages/acervo-antigo.astro
